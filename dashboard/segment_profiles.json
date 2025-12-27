@@ -1,0 +1,62 @@
+{
+  "0": {
+    "segment_name": "Low-Activity Users",
+    "risk_level": "Low Risk",
+    "size": 3935,
+    "size_pct": 44.720991021707015,
+    "avg_balance": 1014.6320472780178,
+    "avg_purchases": 282.62628462515886,
+    "avg_cash_advance": 555.4719861451081,
+    "avg_payments": 972.5546470073698,
+    "avg_purchases_trx": 3.092249047013977,
+    "avg_full_payment_pct": 0.08301836620076239,
+    "credit_limit_25th": 1500.0,
+    "credit_limit_median": 2500.0,
+    "credit_limit_75th": 4500.0
+  },
+  "1": {
+    "segment_name": "General Users",
+    "risk_level": "Low Risk",
+    "size": 3390,
+    "size_pct": 38.52710535288101,
+    "avg_balance": 1014.714646180531,
+    "avg_purchases": 1410.9599233038348,
+    "avg_cash_advance": 229.79424369616518,
+    "avg_payments": 1486.2410683297935,
+    "avg_purchases_trx": 24.621238938053096,
+    "avg_full_payment_pct": 0.2700954439528023,
+    "credit_limit_25th": 1500.0,
+    "credit_limit_median": 3400.0,
+    "credit_limit_75th": 6150.0
+  },
+  "2": {
+    "segment_name": "Cash-Advance Dependent",
+    "risk_level": "High Risk",
+    "size": 1240,
+    "size_pct": 14.092510512558245,
+    "avg_balance": 4307.977055559678,
+    "avg_purchases": 474.31025,
+    "avg_cash_advance": 4393.717629726612,
+    "avg_payments": 3390.295274576613,
+    "avg_purchases_trx": 7.334677419354839,
+    "avg_full_payment_pct": 0.03733260887096774,
+    "credit_limit_25th": 4000.0,
+    "credit_limit_median": 6500.0,
+    "credit_limit_75th": 9000.0
+  },
+  "3": {
+    "segment_name": "Premium Spenders",
+    "risk_level": "Medium Risk",
+    "size": 234,
+    "size_pct": 2.6593931128537336,
+    "avg_balance": 4116.322314897436,
+    "avg_purchases": 9934.038846153846,
+    "avg_cash_advance": 703.5942029829059,
+    "avg_payments": 9150.017793286324,
+    "avg_purchases_trx": 105.05982905982906,
+    "avg_full_payment_pct": 0.30083973076923076,
+    "credit_limit_25th": 7000.0,
+    "credit_limit_median": 9500.0,
+    "credit_limit_75th": 13337.5
+  }
+}
