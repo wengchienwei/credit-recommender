@@ -1,6 +1,6 @@
 # Credit Limit Recommendation System
 
-**[Live Demo](https://huggingface.co/spaces/YOUR_USERNAME/credit-recommender)** | **[View Analysis](clustering_analysis.ipynb)**
+**[Live Demo](https://huggingface.co/spaces/wengchienwei/credit-recommender)** | **[View Analysis](clustering_analysis.ipynb)**
 
 > Machine learning system for automated credit limit recommendations using customer segmentation and behavioral risk scoring.
 
