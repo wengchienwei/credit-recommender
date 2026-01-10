@@ -13,6 +13,12 @@ shiny run app.py
 
 Browser opens at: http://127.0.0.1:8000
 
+## Online Testing
+
+**Live Demo:** https://huggingface.co/spaces/wengchienwei/credit-recommender
+
+No installation required. Access the deployed dashboard directly in your browser.
+
 ---
 
 ## Test Cases
