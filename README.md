@@ -1,6 +1,6 @@
 # Credit Limit Recommendation System
 
-**[Live Demo](https://huggingface.co/spaces/wengchienwei/credit-recommender)** | **[View Analysis](clustering_analysis.ipynb)**
+**[→ Live Demo](https://huggingface.co/spaces/wengchienwei/credit-recommender)** | **[View Analysis](clustering_analysis.ipynb)**
 
 > Machine learning system for automated credit limit recommendations using customer segmentation and behavioral risk scoring.
 
@@ -130,4 +130,31 @@ Test suite covers:
 - Risk scoring accuracy and credit band logic
 
 See [`dashboard/TESTING.md`](dashboard/TESTING.md) for complete test procedures.
+
+---
+
+## Author
+
+**Chien-Wei WENG**  
+MSc Data Sciences and Business Analytics  
+CentraleSupélec × ESSEC Business School  
+
+[LinkedIn](https://www.linkedin.com/in/chien-wei-weng-74a6881b8/) 
+
+---
+
+## License
+
+MIT License - see [LICENSE](LICENSE) for details.
+
+---
+
+## Acknowledgments
+
+*Data source: Confidential credit card customer dataset. Model uses aggregated statistics only. Original data not included per data privacy agreements.*
+
+---
+
+*Academic Project | Marketing Analytics (Fall 2025)*  
+*Instructor: Prof. Raoul V. Kübler (ESSEC Business School)*
 	
