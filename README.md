@@ -31,6 +31,9 @@ This project implements an end-to-end credit decisioning pipeline that segments 
 
 ## Quick Start
 
+<details>
+<summary><b>Setup and Execution — Click to expand</b></summary>
+
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/wengchienwei/credit-recommender.git
@@ -51,6 +54,8 @@ pip install -r requirements.txt
 shiny run app.py
 ```
 Dashboard opens at `http://127.0.0.1:8000`
+
+</details>
 
 ---
 
