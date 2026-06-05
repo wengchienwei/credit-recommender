@@ -138,19 +138,9 @@ See [`dashboard/TESTING.md`](dashboard/TESTING.md) for complete test procedures.
 
 ---
 
-## Author
-
-**Chien-Wei WENG**  
-MSc Data Sciences and Business Analytics  
-CentraleSupélec × ESSEC Business School  
-
-[LinkedIn](https://www.linkedin.com/in/chien-wei-weng-74a6881b8/) 
-
----
-
 ## License
 
-MIT License - see [LICENSE](LICENSE) for details.
+MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
